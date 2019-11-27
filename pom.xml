@@ -36,12 +36,13 @@
 			<version>2.9.8</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/com.oracle/ojdbc14 -->
+		<!-- https://mvnrepository.com/artifact/com.oracle.jdbc/ojdbc8 -->
 		<dependency>
-				<groupId>com.oracle</groupId>
-				<artifactId>ojdbc14</artifactId>
-				<version>10.2.0.3.0</version>
+				<groupId>com.oracle.jdbc</groupId>
+				<artifactId>ojdbc8</artifactId>
+				<version>12.2.0.1</version>
 		</dependency>
+
 
 
 	</dependencies>
